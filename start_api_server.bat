@@ -1,0 +1,3 @@
+@echo off
+echo Starting Claude API HTTP Server...
+venv\Scripts\python.exe -m src.api_server

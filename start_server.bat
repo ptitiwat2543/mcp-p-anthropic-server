@@ -1,0 +1,3 @@
+@echo off
+echo Starting Claude API MCP Server...
+venv\Scripts\python.exe -m src.main

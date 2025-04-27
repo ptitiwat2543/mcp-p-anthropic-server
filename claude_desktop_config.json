@@ -1,0 +1,6 @@
+{
+  "claude-api": {
+    "command": "D:\\\\Claude\\\\PlanOne\\\\mcp-p-anthropic-api-server\\\\start_mcp_server.bat",
+    "env": { "ANTHROPIC_API_KEY": "sk-ant-api03-EXAMPLE-YOUR-API-KEY-HERE" }
+  }
+}
