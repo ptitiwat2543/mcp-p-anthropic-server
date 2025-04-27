@@ -22,8 +22,7 @@ Download or clone this project to your computer
 ```bash
 # Using Git (if available)
 git clone [Project URL]
-cd mcp-p-anthropic-api-server
-
+cd mcp-p-anthropic-server
 # Or download ZIP and extract it
 ```
 

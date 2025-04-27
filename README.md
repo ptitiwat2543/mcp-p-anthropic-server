@@ -42,7 +42,7 @@ This project is based on [Claude_Desktop_API_USE_VIA_MCP](https://github.com/mlo
 
 # Or using terminal
 git clone [Your URL]
-cd mcp-p-anthropic-api-server
+cd mcp-p-anthropic-server
 ```
 
 ### 2. Install Dependencies
